@@ -4,5 +4,7 @@
 - [WinCho's Commit per Day](https://github.com/WintChoco/commit-per-day)<br/>
 - [NY0510's Commit per Day](https://github.com/NY0510/commit-per-day)<br/>
 
+---
+
 - **20220103** Commit!
 - **20220104** Commit!
